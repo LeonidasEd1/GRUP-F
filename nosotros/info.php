@@ -25,7 +25,7 @@ elaboración e implantación de una Política de Seguridad con el fin de:
     <h1></h1>
 	
 	<ul class="galeria">
-		<li><a href="#img1"><img src="http://www.paisajesimagenes.com/wp-content/uploads/Descripci%C3%B3n-de-paisajes..jpg"></a></li>
+		<li><a href="#img1"><img src="https://electrodomesticosjared.pe/wp-content/uploads/2020/12/banner-oster-jared-1-550x293.jpg"></a></li>
 		
 	</ul>
 
@@ -33,7 +33,7 @@ elaboración e implantación de una Política de Seguridad con el fin de:
 		<h3>Paisaje 1</h3>
 		<div class="imagen">
 			<a href="#img4">&#60;</a>
-			<a href="#img2"><img src="http://www.paisajesimagenes.com/wp-content/uploads/Descripci%C3%B3n-de-paisajes..jpg"></a>
+			<a href="#img2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngCnfm39qbz5VcOmpdBCKoKfLheio3sfFew&usqp=CAU"></a>
 			<a href="#img2">></a>
 		</div>
 		<a class="cerrar" href="">X</a>
