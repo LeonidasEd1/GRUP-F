@@ -23,7 +23,7 @@
                 <div>
                     <h2>Nuestro sistema de registro de productos electrodomesticos, nuestra VISION va más aya que es 
                         convertir a un sistema de inventario, tanto que cumpla la accion de VENTAS.</h2>
-                    <a href="#">Nosotros</a>
+                    <a href="nosotros/info.php">Nosotros</a>
                 </div>
                 <img src="animacion.svg" alt="">
 
@@ -32,7 +32,7 @@
                 <div>
                     <h2>Nuestro sistema de registro de productos electrodomesticos, nuestra MISION va más aya que es 
                         convertir a un sistema de inventario, tanto que cumpla la accion de VENTAS.</h2>
-                    <a href="#">Nosotros</a>
+                    <a href="nosotros/info.php">Nosotros</a>
                 </div>
                 <img src="animacion2.svg" alt="">
 
@@ -41,7 +41,7 @@
             <div>
                 <h2>Nuestro sistema de registro de productos electrodomesticos, nuestra VISION va más aya que es 
                     convertir a un sistema de inventario, tanto que cumpla la accion de VENTAS.</h2>
-                <a href="#">Nosotros</a>
+                <a href="nosotros/info.php">Nosotros</a>
             </div>
             <img src="animacion3.svg" alt="">
 
@@ -50,7 +50,7 @@
             <div>
                 <h2>Nuestro sistema de registro de productos electrodomesticos, nuestra VISION va más aya que es 
                     convertir a un sistema de inventario, tanto que cumpla la accion de VENTAS.</h2>
-                <a href="#">Nosotros</a>
+                <a href="nosotros/info.php">Nosotros</a>
             </div>
             <img src="animacion.svg" alt="">
 
