@@ -15,6 +15,12 @@
 elaboración e implantación de una Política de Seguridad con el fin de:
 
 </p>
-     
+     <marquee>
+<table align="center" width="100"border="1">
+<tr>
+   <td>Esta tabla se desplaza , con todo el contenido de la tabla</td>
+</tr>
+</table>
+</marquee>
 </body>
 </html>
