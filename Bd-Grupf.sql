@@ -13,7 +13,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `gupo_f`
+-- Base de datos: `grupo_f`
 --
 
 -- --------------------------------------------------------
