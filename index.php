@@ -30,7 +30,7 @@
             </section>
             <section class="contenido-slider">
                 <div>
-                    <h2>Nuestro sistema de registro de productos electrodomesticos, nuestra VISION va más aya que es 
+                    <h2>Nuestro sistema de registro de productos electrodomesticos, nuestra MISION va más aya que es 
                         convertir a un sistema de inventario, tanto que cumpla la accion de VENTAS.</h2>
                     <a href="#">Nosotros</a>
                 </div>
